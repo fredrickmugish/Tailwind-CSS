@@ -12,7 +12,7 @@
     <body class="antialiased">
         
         <div class="flex justify-center items-center h-screen">
-            <h1 class="text-3xl text-purple-600 font-bold">Hi! My Name is Fredrick Mugisha I welcome you to my portifolio website</h1>
+            <h1 class="text-3xl text-purple-600 font-bold">My Portifolio Website</h1>
         </div>
 
 
